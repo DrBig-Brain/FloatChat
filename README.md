@@ -1,8 +1,5 @@
-v2.5
 
-
-
-# Topics 🎃
+# Topics
 
 - Our Idea
 - Our Solution
@@ -30,7 +27,7 @@ And visualizing the  graphs
  visualizing oceanographic information using *natural language*.
 
 
-## Our Solution 🎃 :   
+## Our Solution :   
 
 
 # A Chatbot 
@@ -60,17 +57,17 @@ A sleek Ui for the comfortable Questionb answering : Visualization of The of Gra
 # Backend :
 
 
- - Data Ingestion 🎃
+ - Data Ingestion
      - Parse argo
      - convert into structured formats
-- Vector Database 🎃
+- Vector Database
     - Store embeddings into faiss/chroma
 - RAG Pipeling:
     -  using llms : GPT /GEmini
     -  Retrieve Results
 
 
-### Stack 🎃 :  
+### Stack :  
 - Langchain 
 - Langgraph
 - FASTAPI
